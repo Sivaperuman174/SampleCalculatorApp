@@ -1,0 +1,9 @@
+E:\Excercise\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\Excercise\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\Excercise\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.frmCalculator.resources
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.pdb
