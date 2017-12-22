@@ -131,12 +131,14 @@
             // 
             // btn_Clear
             // 
+            this.btn_Clear.BackColor = System.Drawing.Color.Red;
+            this.btn_Clear.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btn_Clear.Location = new System.Drawing.Point(271, 175);
             this.btn_Clear.Name = "btn_Clear";
             this.btn_Clear.Size = new System.Drawing.Size(75, 62);
             this.btn_Clear.TabIndex = 10;
             this.btn_Clear.Text = "Clear";
-            this.btn_Clear.UseVisualStyleBackColor = true;
+            this.btn_Clear.UseVisualStyleBackColor = false;
             this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
             // 
             // frmCalculator

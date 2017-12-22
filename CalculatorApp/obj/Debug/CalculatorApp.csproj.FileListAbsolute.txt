@@ -7,3 +7,6 @@ E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resource
 E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
 E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.exe
 E:\Excercise\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\Sample Codes\SampleCalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\Sample Codes\SampleCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\Sample Codes\SampleCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
