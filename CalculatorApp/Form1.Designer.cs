@@ -101,7 +101,7 @@
             // 
             // btn_Subtract
             // 
-            this.btn_Subtract.Location = new System.Drawing.Point(179, 175);
+            this.btn_Subtract.Location = new System.Drawing.Point(179, 166);
             this.btn_Subtract.Name = "btn_Subtract";
             this.btn_Subtract.Size = new System.Drawing.Size(75, 23);
             this.btn_Subtract.TabIndex = 7;
@@ -133,7 +133,7 @@
             // 
             this.btn_Clear.BackColor = System.Drawing.Color.Red;
             this.btn_Clear.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btn_Clear.Location = new System.Drawing.Point(271, 175);
+            this.btn_Clear.Location = new System.Drawing.Point(294, 175);
             this.btn_Clear.Name = "btn_Clear";
             this.btn_Clear.Size = new System.Drawing.Size(75, 62);
             this.btn_Clear.TabIndex = 10;
